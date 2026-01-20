@@ -1,0 +1,8 @@
+[
+{
+  "directory": "C:/Users/suram/Desktop/Cmpm_123/build",
+  "command": "C:\\msys64\\ucrt64\\bin\\g++.exe   -g -o CMakeFiles\\Main.dir\\main.cpp.obj -c C:\\Users\\suram\\Desktop\\Cmpm_123\\Hello_world\\main.cpp",
+  "file": "C:/Users/suram/Desktop/Cmpm_123/Hello_world/main.cpp",
+  "output": "CMakeFiles/Main.dir/main.cpp.obj"
+}
+]
